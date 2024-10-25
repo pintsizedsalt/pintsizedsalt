@@ -37,7 +37,7 @@
   <a href="https://www.facebook.com/pintsizedsalts">
     <img src="https://cdn-icons-png.flaticon.com/256/5968/5968764.png" alt="Facebook" width="60"/> 
   </a>
-  <a href="https://www.instagram.com/pintsizedschel/">
+  <a href="https://www.instagram.com/pintsizedsalt/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="60"/> 
   </a>
 </p>
