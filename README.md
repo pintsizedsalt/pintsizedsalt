@@ -1,17 +1,17 @@
-# ![Header Image](https://via.placeholder.com/1200x300/f7e65b/ffffff?text=Welcome+to+My+GitHub+Profile) 🌼
+# ![Header Image](https://via.placeholder.com/1200x300/f7e65b/ffffff?text=Welcome+to+My+GitHub+Profile)
 
 Hello! I'm **Salt** 🧂, a 21-year-old budding developer. As a beginner in the coding world, I’m diving into **Python**, **C#**, and **PHP**, and exploring frameworks like **Laravel** and **CSS**. Right now, I’m crafting a note application for my current project. Beyond the realm of coding, I have a passion for cooking and music. My heart belongs to the comforting flavors of **Sinigang na buto-buto**, but my ultimate favorite is **him, ems**.
 
 ---
 
-## 🌟 About Me
+## .
 - 🔭 I’m currently working on projects related to **Web Development** and **Data Structures**.
 - 🌱 I’m learning **Laravel**, **Python**, **PHP**, **C#**, and **CSS**.
 - 📫 Reach me on: [📧 Email Me](mailto:samlisingisaac28@gmail.com)
 
 ---
 
-## 📂 My Projects
+## .
 | Project         | Description                                                          |
 |------------------|----------------------------------------------------------------------|
 | [🍽️ Transaction App](https://github.com/pintsizedsalt/Isaac-wad-practical-exam-bsis2.git) | We were instructed to create a transaction application for our practical exam. (it's ugly so please stop da car jk) |
@@ -20,7 +20,7 @@ Hello! I'm **Salt** 🧂, a 21-year-old budding developer. As a beginner in the 
 
 ---
 
-## 🎉 Fun Fact
+## .
 I love cooking, especially **Sinigang na buto-buto** and **Kimchi Stew**! 🍜 I also have a special love for **nori**.
 
 ---
