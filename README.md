@@ -20,12 +20,6 @@ Hello! I'm **Salt** 🧂, a 21-year-old budding developer. As a beginner in the 
 
 ---
 
-## 🌈 Connect with Me
-Feel free to connect with me on:  
-[🌐 Facebook](https://www.facebook.com/pintsizedsalts)  
-
----
-
 ## 🎉 Fun Fact
 I love cooking, especially **Sinigang na buto-buto** and **Kimchi Stew**! 🍜 I also have a special love for **nori**.
 
