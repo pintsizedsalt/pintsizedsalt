@@ -1,4 +1,4 @@
-<img align="left" height="150" src="[https://avatars.githubusercontent.com/u/173249371?v=4](https://avatars.githubusercontent.com/u/173249371?s=400&u=d267797eca78f9de383c4649af4fa974d0e77a3c&v=4)" />
+<img align="left" height="150" src="https://avatars.githubusercontent.com/u/173249371?v=4" />
 
 <h3 align="left">Salt</h3>
 
