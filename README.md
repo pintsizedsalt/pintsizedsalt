@@ -37,12 +37,13 @@ I love cooking, especially **Sinigang na buto-buto** and **Kimchi Stew**! 🍜 I
 
 ## ✨ Quick Links
 **Check out my other profiles:**  
-[💖 My GitHub](https://github.com/pintsizedsalt) | [📚 My Portfolio](https://yourportfolio.com) | [🎶 My Music](https://yourmusic.com)
+[GitHub](https://github.com/pintsizedsalt)| [🎶](https://open.spotify.com/playlist/0y7wL49Vp65KhLrMpr47UT))
 
 ---
 
 ## 🔗 Social Links
 - [📧 Email](mailto:samlisingisaac28@gmail.com)
 - [🌐 Facebook](https://www.facebook.com/pintsizedsalts)
+- [🧂 Instagram] (https://www.instagram.com/pintsizedschel/)
 
 ---
