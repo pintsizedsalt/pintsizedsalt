@@ -2,7 +2,7 @@
 
 <h3 align="left">Salt</h3>
 
-<h5 align="left"><b>4</b> repositories&nbsp;&nbsp;&nbsp;&nbsp;<b>4</b> followers&nbsp;&nbsp;&nbsp;&nbsp;<b>6</b> following</h5>
+<h5 align="left"><b>4</b> repositories&nbsp;&nbsp;&nbsp;&nbsp;<b>4</b> followers&nbsp;&nbsp;&nbsp;&nbsp;<b>7</b> following</h5>
 <h5 align="left">"A bittersweet reminder that even the tiniest grains can feel lost in the ocean, trying to find where I belong."</h5>
 
 <br clear="both">
