@@ -24,8 +24,14 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pintsizedsalt&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pintsizedsalt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pintsizedsalt&radius=16&theme=tokyo-night&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=pintsizedsalt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pintsizedsalt/pintsizedsalt/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pintsizedsalt/pintsizedsalt/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <h3 align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 18px;">Connect with me:</h3>
